@@ -51,3 +51,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 License
 This project is licensed under the MIT License.
+
+you can run the app at:
+
+https://multiple-disease-prediction-system-b7xg5ae5qnhzh8cfnzzyzg.streamlit.app/
