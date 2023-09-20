@@ -11,19 +11,20 @@ Usage
 Contributing
 License
 Overview
+
 This project aims to predict the likelihood of three different diseases - diabetes, heart disease, and Parkinson's disease - based on relevant health data. Machine learning models have been trained and integrated into a Streamlit application for easy and interactive prediction.
 
 Setup and Installation
 To set up the project locally, follow these steps:
 
-Clone the repository:
+1.Clone the repository:
 
-git clone https://github.com/your-username/multiple-disease-prediction-system.git
-cd multiple-disease-prediction-system
+git clone https://github.com/your-username/multiple-disease-prediction-system.git cd multiple-disease-prediction-system
 
 Install the necessary dependencies:
 
 pip install -r requirements.txt
+
 Disease Prediction Systems
 This project includes prediction systems for three diseases:
 
